@@ -1,6 +1,7 @@
 {
     "image": "someimageurl",
     "tokenId": 0,
+    "external_link":"https://www.google.com/",
     "name": "testproject",
     "attributes": [
         {
