@@ -1,0 +1,19 @@
+{
+    "image": "someimageurl",
+    "tokenId": 0,
+    "name": "testproject",
+    "attributes": [
+        {
+            "trait_type": "Trait1",
+            "value": "Val"
+        },
+        {
+            "trait_type": "Trait2",
+            "value": "Val"
+        },
+        {
+            "trait_type": "Trait3",
+            "value": "Val"
+        }
+    ]
+}
