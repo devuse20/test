@@ -1,0 +1,20 @@
+{
+    "image": "somelink.com",
+    "tokenId": 0,
+    "external_link":"https://www.facebook.com/",
+    "name": "testproject",
+    "attributes": [
+        {
+            "trait_type": "Trait1",
+            "value": "changeuri1"
+        },
+        {
+            "trait_type": "Trait2",
+            "value": "changeuri2"
+        },
+        {
+            "trait_type": "Trait3",
+            "value": "changeuri3"
+        }
+    ]
+}
